@@ -25,4 +25,3 @@
 // favoritecolor.pop(); 
 // favoritecolor
 
-// Session 2: Activities 
